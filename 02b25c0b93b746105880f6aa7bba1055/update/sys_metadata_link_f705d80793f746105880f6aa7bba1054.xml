@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>79e4d40793f746105880f6aa7bba10f2</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_computer">
+    <cmdb_ci_computer action="INSERT_OR_UPDATE">
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status>Not Yet Reviewed</attestation_status>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category>Hardware</category>
+        <cd_rom>false</cd_rom>
+        <cd_speed/>
+        <change_control/>
+        <chassis_type/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <cpu_core_count/>
+        <cpu_core_thread/>
+        <cpu_count/>
+        <cpu_manufacturer/>
+        <cpu_name/>
+        <cpu_speed/>
+        <cpu_type/>
+        <default_gateway/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <disk_space/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <floppy/>
+        <form_factor/>
+        <fqdn/>
+        <gl_account/>
+        <hardware_status>installed</hardware_status>
+        <hardware_substatus/>
+        <install_date/>
+        <install_status>1</install_status>
+        <internet_facing>true</internet_facing>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer/>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <most_frequent_user/>
+        <name>Kenny 1</name>
+        <object_id/>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <os/>
+        <os_address_width/>
+        <os_domain/>
+        <os_service_pack/>
+        <os_version/>
+        <owned_by/>
+        <po_number/>
+        <product_instance_id/>
+        <purchase_date/>
+        <ram/>
+        <schedule/>
+        <serial_number/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory>Computer</subcategory>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_computer</sys_class_name>
+        <sys_class_path>/!!/!2/!(</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-07 23:36:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>79e4d40793f746105880f6aa7bba10f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-07 23:36:21</sys_updated_on>
+        <unverified>false</unverified>
+        <vendor/>
+        <virtual>false</virtual>
+        <warranty_expiration/>
+    </cmdb_ci_computer>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-07 23:36:55</sys_created_on>
+        <sys_id>f705d80793f746105880f6aa7bba1054</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Kenny 1</sys_name>
+        <sys_package display_value="TMT Demo Data" source="02b25c0b93b746105880f6aa7bba1055">02b25c0b93b746105880f6aa7bba1055</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TMT Demo Data">02b25c0b93b746105880f6aa7bba1055</sys_scope>
+        <sys_update_name>sys_metadata_link_f705d80793f746105880f6aa7bba1054</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-07 23:36:55</sys_updated_on>
+        <tablename>cmdb_ci_computer</tablename>
+    </sys_metadata_link>
+</record_update>
