@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b4fd7c8437201000deeabfc8bcbe5dc1</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_computer">
+    <cmdb_ci_computer action="INSERT_OR_UPDATE">
+        <asset display_value="P1000226 - Lenovo ThinkStation S20">73c1fa8837f3100044e0bfc8bcbe5ded</asset>
+        <asset_tag>P1000226</asset_tag>
+        <assigned>2024-03-12 07:00:00</assigned>
+        <assigned_to display_value="Annie Approver">c9884ac30a0a0bdb3879454e8f02774e</assigned_to>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status/>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category>Do not migrate to asset</category>
+        <cd_rom>false</cd_rom>
+        <cd_speed/>
+        <change_control/>
+        <chassis_type/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company display_value="ACME North America">31bea3d53790200044e0bfc8bcbe5dec</company>
+        <correlation_id/>
+        <cost>3665</cost>
+        <cost_cc>USD</cost_cc>
+        <cost_center display_value="Finance">d9d01546c0a80a6403e18b82250c80a1</cost_center>
+        <cpu_core_count>1</cpu_core_count>
+        <cpu_core_thread/>
+        <cpu_count>1</cpu_count>
+        <cpu_manufacturer display_value="Intel">7aad6d00c611228400f00e0f80b67d2d</cpu_manufacturer>
+        <cpu_name>Intel(R) Pentium(R) M processor 1.86GHz</cpu_name>
+        <cpu_speed>798</cpu_speed>
+        <cpu_type/>
+        <default_gateway/>
+        <delivery_date/>
+        <department display_value="Finance">a581ab703710200044e0bfc8bcbe5de8</department>
+        <discovery_source/>
+        <disk_space>51</disk_space>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered>2007-03-13 20:55:20</first_discovered>
+        <floppy/>
+        <form_factor/>
+        <fqdn/>
+        <gl_account/>
+        <hardware_status>installed</hardware_status>
+        <hardware_substatus/>
+        <install_date>2023-09-15 08:00:00</install_date>
+        <install_status>1</install_status>
+        <internet_facing>false</internet_facing>
+        <invoice_number>INV0166221</invoice_number>
+        <ip_address/>
+        <justification/>
+        <last_discovered>2007-04-12 23:17:45</last_discovered>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location display_value="815 E Street, San Diego,CA">f48b202a0a0a0ba7004d9fdfb817015d</location>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer display_value="Lenovo">aa0a6df8c611227601cd2ed45989e0ac</manufacturer>
+        <model_id display_value="Lenovo ThinkStation S20">a9a2d0c3c6112276010db16c5ddd3461</model_id>
+        <model_number/>
+        <monitor>false</monitor>
+        <most_frequent_user/>
+        <name>*ANNIE-IBM</name>
+        <object_id/>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <os>Windows XP Professional</os>
+        <os_address_width/>
+        <os_domain/>
+        <os_service_pack>Service Pack 2</os_service_pack>
+        <os_version>5.1.2600</os_version>
+        <owned_by/>
+        <po_number>PO27711</po_number>
+        <product_instance_id/>
+        <purchase_date>2018-09-07</purchase_date>
+        <ram>1534</ram>
+        <schedule/>
+        <serial_number>L3BB911</serial_number>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_computer</sys_class_name>
+        <sys_class_path>/!!/!2/!(</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2011-08-12 21:11:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b4fd7c8437201000deeabfc8bcbe5dc1</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-06-27 03:00:09</sys_updated_on>
+        <unverified>false</unverified>
+        <vendor display_value="Lenovo">aa0a6df8c611227601cd2ed45989e0ac</vendor>
+        <virtual>false</virtual>
+        <warranty_expiration>2019-09-07</warranty_expiration>
+    </cmdb_ci_computer>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-07 23:30:35</sys_created_on>
+        <sys_id>4f931c8393f746105880f6aa7bba10f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>*ANNIE-IBM</sys_name>
+        <sys_package display_value="TMT Demo Data" source="02b25c0b93b746105880f6aa7bba1055">02b25c0b93b746105880f6aa7bba1055</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TMT Demo Data">02b25c0b93b746105880f6aa7bba1055</sys_scope>
+        <sys_update_name>sys_metadata_link_4f931c8393f746105880f6aa7bba10f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-07 23:30:35</sys_updated_on>
+        <tablename>cmdb_ci</tablename>
+    </sys_metadata_link>
+</record_update>
